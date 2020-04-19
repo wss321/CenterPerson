@@ -1,0 +1,7 @@
+{
+  "root": "E:/PyProjects/datasets/",
+  "test": {
+    "mot16": "./data/mot16.test"
+  },
+  "seqs_dir": "MOT16/test"
+}

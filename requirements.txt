@@ -1,0 +1,10 @@
+yacs
+opencv-python
+numba
+progress
+motmetrics
+numba
+matplotlib
+lap
+openpyxl
+Pillow==6.2.2
